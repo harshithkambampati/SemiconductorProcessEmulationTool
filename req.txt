@@ -1,0 +1,11 @@
+gdstk
+shapely
+numpy
+scipy
+pyvista
+trimesh
+vtk
+matplotlib
+plotly
+PyQt5
+pyvistaqt
